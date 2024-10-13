@@ -1,2 +1,2 @@
 # Exercicios_Beecrowd
-Este repositório contém uma coleção de soluções de exercícios práticos da plataforma Beecrowd.
+Este repositório contém soluções de desafios práticos da Plataforma Beecrowd. 
